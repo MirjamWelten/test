@@ -1,4 +1,6 @@
 # Replication package test
+[![DOI:10.5281/zenodo.7798896](http://img.shields.io/badge/DOI-10.5281/zenodo.7798896-4078c0.svg)](https://zenodo.org/badge/latestdoi/623423988)
+
 This repository contains the replication package and dataset of the paper published ... with the title **ABC**
 
 This study has been designed, developed, and reported by the following investigators:
